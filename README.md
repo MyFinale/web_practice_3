@@ -170,13 +170,13 @@
     
 ## 시연영상
 - 메인화면 > 로그인    
-<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_223428743.gif"/>   
+<img width="100%" src="https://github.com/tail-s/persona/blob/main/gif/KakaoTalk_20230507_223428743.gif"/>   
 
 - 대본 검색 기능, 북마크 기능    
-<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_224911513.gif"/>    
+<img width="100%" src="https://github.com/tail-s/persona/blob/main/gif/KakaoTalk_20230507_224911513.gif"/>    
 
 - 영상 분석 > 연기 연습 > 음성분석, 감정분석 내용 저장    
-<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_223155367.gif"/>    
+<img width="100%" src="https://github.com/tail-s/persona/blob/main/gif/KakaoTalk_20230507_223155367.gif"/>    
 
 - 연기 피드백 게시글 등록 및 댓글 등록, 좋아요    
-<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_224434678.gif"/>
+<img width="100%" src="https://github.com/tail-s/persona/blob/main/gif/KakaoTalk_20230507_224434678.gif"/>
