@@ -9,8 +9,6 @@
 
 ### 개발 기간 : 2023.02/20 ~ 2023.03/03
 
-![Untitled](images/002.png)
-
 ## Back-Ground
 
 - **연기에 대한 관심 증가**로 인한 연기희망자 증가
@@ -68,18 +66,18 @@
 ## 메인 기능 설명
 
 - **대본 및 인물 정보 제공을 통한 대본 분석 공간 제공**
+![Untitled](images/012.png)         
 
-사용자의 웹캠을 통해 ai모델을 사용하여 사용자의 감정을 인식
+- **감성 인식 & 발음 인식**    
 
-
-
-- **음성 발음 인식**
+**TenserFlow**를 이용하여 연기자의 감정 분석    
 
 **whisper Api**를 이용, 
 사용자의 음성을 인식하여 대본과 얼마나 일치하는지 비교,
 틀린부분을 체크하여 보여줌
 
 ![Untitled](images/013.png)
+![Untitled](images/028.PNG)
 
 ## 기대 효과
 
@@ -94,7 +92,7 @@
 
 - 소셜 **로그인**
 
-![SmartSelect_20230217_132438_Gallery.gif](images/SmartSelect_20230217_132438_Gallery.gif)
+![Untitled](images/27.png)
 
 - AI영상 분석 모델을 활용한 감정인식
 
@@ -152,7 +150,6 @@
 
 # ✔ **Cooperation**
 
----
 
 ## Tools
 
@@ -170,5 +167,16 @@
 - 이인호 (팀원) - AI
 - 이상학 (팀원) - Back-End
 - 남기정 (팀원) - Back-End
+    
+## 시연영상
+- 메인화면 > 로그인    
+<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_223428743.gif"/>   
 
-![Untitled](images/Untitled%2013.png)
+- 대본 검색 기능, 북마크 기능    
+<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_224911513.gif"/>    
+
+- 영상 분석 > 연기 연습 > 음성분석, 감정분석 내용 저장    
+<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_223155367.gif"/>    
+
+- 연기 피드백 게시글 등록 및 댓글 등록, 좋아요    
+<img width="100%" src="https://github.com/nkj0901/persona/blob/main/gif/KakaoTalk_20230507_224434678.gif"/>
